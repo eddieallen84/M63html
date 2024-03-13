@@ -1,0 +1,25 @@
+body {
+    background-color: #FCFDEF;
+    width: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
+
+img {
+    max-width: 300px;
+    max-height: 200px;
+    margin: 10px;
+               
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table, th, tr, td{
+    border: 1px solid black;
+}
+th{
+    text-align: center;
+}
